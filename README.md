@@ -5,7 +5,7 @@ En este laboratorio, explorará la arquitectura de aplicaciones distribuidas, es
 + Para poder correr el laboratorio se clona el repositorio en una máquina local con el siguiente comando
   
     ```
-  git clone https://github.com/Juc28/CNYT-DeLoClasicoALoCuantico.git](https://github.com/Juc28/AREP_LAB02.git
+  git clone (https://github.com/Juc28/AREP_LAB02.git
     ```
   
 + Para ejecutar el laboratrio es la clase [HttpServer](https://github.com/Juc28/AREP_LAB02/blob/master/Taller02/src/main/java/edu/escuelaing/arem/ASE/app/HttpServer.java) y desde el ide de prefencia correr la clase mencionada, Luego, ejecute la clase y abra su navegador de confianza(En mi caso use [Google](https://www.google.com/?hl=es)). En la barra de direcciones, escriba  ``` localhost:35000 ```.
@@ -16,7 +16,7 @@ En este laboratorio, explorará la arquitectura de aplicaciones distribuidas, es
 Se puede desde la consola o desde el ide de preferencia 
 - Clonar repositorio
    ```
-  git clone https://github.com/Juc28/CNYT-DeLoClasicoALoCuantico.git](https://github.com/Juc28/AREP_LAB02.git
+  git clone https://github.com/Juc28/AREP_LAB02.git
    ```
 
 - Cambiar directorio
