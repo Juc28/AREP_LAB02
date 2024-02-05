@@ -8,7 +8,7 @@ En este laboratorio, explorará la arquitectura de aplicaciones distribuidas, es
   git clone (https://github.com/Juc28/AREP_LAB02.git
     ```
   
-+ Para ejecutar el laboratrio es la clase [HttpServer](https://github.com/Juc28/AREP_LAB02/blob/master/Taller02/src/main/java/edu/escuelaing/arem/ASE/app/HttpServer.java) y desde el ide de prefencia correr la clase mencionada, Luego, ejecute la clase y abra su navegador de confianza(En mi caso use [Google](https://www.google.com/?hl=es)). En la barra de direcciones, escriba  ``` localhost:35000 ```.
++ Para ejecutar el laboratrio es la clase [HttpServer](https://github.com/Juc28/AREP_LAB02/blob/master/Taller02/src/main/java/edu/escuelaing/arem/ASE/app/HttpServer.java) y desde el ide de prefencia correr la clase mencionada, Luego, ejecute la clase y abra su navegador de confianza(En mi caso use [Google](https://www.google.com/?hl=es)). En la barra de direcciones, escriba  ``` localhost:35000 ``` y se puede empezar a subir los archivos (Aclaración hay que darle doble clik en el botón de Subir)
   
 + Siempre se debe de seleccionar un archivo que se encuentre en el Archivo de [Recursos](https://github.com/Juc28/AREP_LAB02/tree/master/Taller02/src/main/resource)
   
@@ -43,6 +43,19 @@ Si el URI solicitado no comienza con "/upload", el servidor devuelve una página
 En resumen, este servidor HTTP simple puede manejar cargas de archivos utilizando el método HTTP POST y devolver el contenido del archivo cargado en el formato apropiado al lado del cliente. También puede servir la página HTML predeterminada que contiene un formulario para cargar archivos.
 
 # Pruebas 
+## - Al entrar:
+![](Taller02/src/main/resource/Prueba1.png)
+## - Al cargar un archivo html:
+![](Taller02/src/main/resource/Prueba2.png)
+## - Al cargar un imagen:
+![](Taller02/src/main/resource/Prueba3.png)
+## - Al cargar un archivo css:
+![](Taller02/src/main/resource/Prueba4.png)
+## - Al cargar un archivo js:
+![](Taller02/src/main/resource/Prueba5.png)
+
+# Referencias 
+- https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview
 
 # Lincencia
 Licenciado por GNU General Public License v3.0 [LICENSE](https://github.com/Juc28/AREP_LAB01/blob/master/LICENSE)
