@@ -55,14 +55,16 @@ En resumen, este servidor HTTP simple puede manejar cargas de archivos utilizand
 ![](Taller02/src/main/resource/Prueba5.png)
 
 # Referencias 
-- https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview
+
+- [MDN Web Docs - HTTP Overview](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
+- [Stack Overflow - Aplicar BufferedInputStream y StringBuilder con un archivo txt en Java](https://es.stackoverflow.com/questions/246369/como-aplicar-bufferedinputstream-stringbuilder-con-un-archivo-txt-en-java)
+- [Medium - Cómo codificar una imagen a base64 en Java](https://medium.com/@josejbocanegra/c%C3%B3mo-codificar-una-imagen-a-base64-en-java-5e8e0e2e1e3e)
+- [Oracle Docs - BufferedReader (Java SE 8)](https://docs.oracle.com/javase/8/docs/api/java/io/BufferedReader.html)
+- [Oracle Docs - Java Tutorials - Essential IO/File I/O](https://docs.oracle.com/javase/tutorial/essential/io/file.html)
+- [Oracle Docs - Java Tutorials - Essential IO/Character Streams](https://docs.oracle.com/javase/tutorial/essential/io/charstreams.html)
 
 # Lincencia
 Licenciado por GNU General Public License v3.0 [LICENSE](https://github.com/Juc28/AREP_LAB01/blob/master/LICENSE)
-
-
- 
-
 
 # Autor 
 Erika Juliana Castro Romero [Juc28](https://github.com/Juc28)
